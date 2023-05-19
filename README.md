@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/v5l3qxmvjgnw9ef5?svg=true)](https://ci.appveyor.com/project/julija9531/07-js-ugl-02-04-p1-unittest)
